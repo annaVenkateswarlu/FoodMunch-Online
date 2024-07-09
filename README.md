@@ -31,9 +31,12 @@ Netlify/Vercel: For deployment and hosting of the website.
 Home Page: Features a banner section with a call-to-action button.
 Why Choose Us: Highlights the benefits of choosing FoodMunch.
 Menu: Displays a variety of food items with images and descriptions.
+![Screenshot 2024-07-09 160942](https://github.com/annaVenkateswarlu/FoodMunch-Online/assets/157132573/aa4de221-77f0-4631-bae6-d9e320edec3b)
+
 Healthy Food: Emphasizes the importance of healthy eating with engaging visuals.
 Delivery and Payment: Provides information on delivery and payment methods.
 Thanking Customers: Expresses gratitude to customers with a dedicated section.
+![Screenshot 2024-07-09 160929](https://github.com/annaVenkateswarlu/FoodMunch-Online/assets/157132573/31f3aff6-6bfc-436c-a5a7-c812da10eda2)
 Follow Us: Includes social media icons for easy connection.
 
 ##Form Validation
@@ -45,6 +48,8 @@ Email: Required field with format validation for @gmail.com domain.
 Phone Number: Required field with exact 10 digits.
 Message: Required field.
 Real-time validation ensures users receive immediate feedback while filling out the form.
+
+![Screenshot 2024-07-09 160919](https://github.com/annaVenkateswarlu/FoodMunch-Online/assets/157132573/c49db98c-1976-4051-9162-22e4866e6aea)
 
 ## License
 
